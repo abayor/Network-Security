@@ -1,5 +1,4 @@
-#This python script demonstarte login in into a host using python script
-#Head response
+#Bruteforce a short login details
 import  socket
 s= socket.socket()                        
 target = 'packtpub.samsclass.info'
